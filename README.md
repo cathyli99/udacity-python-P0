@@ -9,7 +9,7 @@ Project 0 - Udacity Data Structure and Algorithm - Python
 
 ## What is this Project about? ##
 
-The telephone company want to identify numbers, connected time and type of numbers from calls.csv and texts.csv.
+The telephone company want to identify numbers, connected time and type of numbers from *calls.csv* and *texts.csv*.
 
 ## Calculate Big O ##
 
